@@ -102,6 +102,7 @@
 import RadioButton from '@/components/RadioButton.vue'
 
 export default {
+  name: 'Display',
   components: {
     RadioButton
   },
